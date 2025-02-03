@@ -1,0 +1,40 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-42372ed130431b0a.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/mb8y0lTZqDQc14QDg4rv8/_buildManifest.js",
+    "static/mb8y0lTZqDQc14QDg4rv8/_ssgManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/webpack-de96603576ac7c02.js",
+    "static/chunks/fd9d1056-9e191f0896c1d560.js",
+    "static/chunks/117-85d1e50ce5de9dcf.js",
+    "static/chunks/main-app-143b85b78b440e92.js"
+  ],
+  "pages": {
+    "/_app": [
+      "static/chunks/webpack-de96603576ac7c02.js",
+      "static/chunks/framework-88fae784783e1200.js",
+      "static/chunks/main-3453de25296204c8.js",
+      "static/chunks/pages/_app-e205c7fbfe84ea85.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-de96603576ac7c02.js",
+      "static/chunks/framework-88fae784783e1200.js",
+      "static/chunks/main-3453de25296204c8.js",
+      "static/chunks/pages/_error-e7866ea24a235f9d.js"
+    ],
+    "/agendamento": [
+      "static/chunks/webpack-de96603576ac7c02.js",
+      "static/chunks/framework-88fae784783e1200.js",
+      "static/chunks/main-3453de25296204c8.js",
+      "static/chunks/7112840a-4a737d536dab0c2b.js",
+      "static/chunks/233-723914a90fc71a07.js",
+      "static/chunks/pages/agendamento-2e5d95fd73e75cd2.js"
+    ]
+  },
+  "ampFirstPages": []
+}
