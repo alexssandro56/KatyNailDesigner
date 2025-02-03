@@ -1,20 +1,22 @@
-# Ignorar dependências
+# Node.js
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js
+.next/
+out/
+.vercel/
+
+# Firebase
 functions/node_modules/
+functions/lib/
 
-# Ignorar arquivos do sistema
+# Editor
+.vscode/
+.idea/
 .DS_Store
-Thumbs.db
-*.log
-*.tmp
-*.cache
-*.lock
-.env
-firebase-debug.log
-firebase-debug.*.log
 
-# Ignorar arquivos do Windows
-AppData/
-*.lnk
-*.bak
-*.swp
+# Git
+.gitignore
